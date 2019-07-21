@@ -1,0 +1,4 @@
+SQLAlchemy==1.3.5
+python-dotenv==0.10.1
+alembic==0.9.3.dev0
+phonenumbers==8.10.15
