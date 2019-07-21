@@ -16,14 +16,10 @@ python3 -m pip install -r requirements.txt
 
 Put all necessary parameters to .env file.
 
+
 ```bash
-PG_HOST=postgresql_host
-PG_PORT=postgresql_port
-PG_DB=postgresql_db
+PG_URL=postgresql://user:paswprd@host:port/database
 PG_TABLE=postgresql_table
-PG_USER=postgresql_user
-PG_PWD=postgresql_password
-PG_NEW_COLUMN_NAME=name_of_new_colunm
 
 ```
 
